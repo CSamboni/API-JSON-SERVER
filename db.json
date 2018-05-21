@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Cristian",
+      "lastName": "SAM",
+      "email": "chrixz512@hotmail.com",
+      "age": 16,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "email": "markdoe@gmail.com",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Smitch",
+      "email": "sarathmop@hotmail.com",
+      "age": 22,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "age": 16,
+      "email": "chrixz512@hotmail.com",
+      "companyId": "3",
+      "id": "zXv5Bfs"
+    },
+    {
+      "id": "8K51Qla"
+    },
+    {
+      "firstName": "Jorguen",
+      "lastName": "Alexander",
+      "age": 36,
+      "email": "jorguenplacios@yahoo.com",
+      "companyId": "5",
+      "id": "YqXj_4c"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. Is an American multinational technology company headquartered in Cupertino, Cafinornia that designs, develops, and sells consumer electronics, computer software, and online services... It's online services include the iTunes Store, the iOS App store and Mac App Store, Apple Music, and iCloud."
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "s an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers."
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Google is a multinational, publicly-traded organization built around the company's hugely popular search engine. Google's other enterprises include Internet analytics, cloud computing, advertising technologies, and Web app, browser and operating system development."
+    },
+    {
+      "id": "4",
+      "name": "Amazon",
+      "description": " is an American electronic commerce and cloud computing company based in Seattle, Washington that was founded by Jeff Bezos on July 5, 1994. The tech giant is the largest Internet retailer in the world as measured by revenue and market capitalization, and second largest after Alibaba Group in terms of total sales.[3] The amazon.com website started as an online bookstore and later diversified to sell video downloads/streaming, MP3 downloads/streaming, audiobook downloads/streaming, software, video games, electronics, apparel, furniture, food, toys, and jewelry"
+    },
+    {
+      "id": "5",
+      "name": "Uniminuto",
+      "description": "Uniminuto, es un espacio para el conocimiento y la dedicación por parte de todos los participantes, que permite y optimiza el aprendizaje y el emprendimiento colectivo."
+    }
+  ]
+}
